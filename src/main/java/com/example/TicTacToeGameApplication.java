@@ -24,8 +24,8 @@ public class TicTacToeGameApplication {
         return (args) -> {
 
             //save a couple of players
-            playerRepository.save(new Player("ala", "ala@ala.com", new BCryptPasswordEncoder().encode("ala")));
-            playerRepository.save(new Player("mary", "mary@mary.com",  new BCryptPasswordEncoder().encode("mary")));
+            playerRepository.save(new Player("manas", "manasm@sidgs.com", new BCryptPasswordEncoder().encode("manas")));
+            playerRepository.save(new Player("krishna", "krishna@sidgs.com",  new BCryptPasswordEncoder().encode("krishna")));
 
         };
     }
