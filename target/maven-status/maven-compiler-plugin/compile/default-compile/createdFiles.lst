@@ -1,0 +1,7 @@
+com\example\DTO\PlayerDTO.class
+com\example\controller\MoveController.class
+com\example\service\MoveService.class
+com\example\repository\PlayerRepository.class
+com\example\service\PlayerService.class
+com\example\domain\Player.class
+com\example\security\ContextUser.class
